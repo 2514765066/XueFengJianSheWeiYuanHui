@@ -1,1 +1,1 @@
-# XueFengJianSheWeiYuanHui
+# 学风建设委员会表格脚本
